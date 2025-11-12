@@ -8,3 +8,36 @@
 1. Create a virtual environment  
    ```bash
    python -m venv venv
+Activate it
+
+Windows:
+
+bash
+Copy code
+venv\Scripts\activate
+
+ Install dependencies
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the script
+
+bash
+Copy code
+python Day1_basics.py
+Project Note
+This repo is part of the Python Mastery series — Day 1 focuses on setup, syntax, and running basic scripts.
+
+yaml
+Copy code
+
+---
+
+### ✅ Step 2: Commit & push it
+Run these in PowerShell (inside your project folder):
+
+```bash
+git add README.md
+git commit -m "Add Day 1 README"
+git push origin main
