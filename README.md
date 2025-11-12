@@ -5,36 +5,32 @@
 - `Day1_notebook.ipynb` : Jupyter notebook with examples
 
 ## How to run
+
 1. Create a virtual environment  
    ```bash
    python -m venv venv
-Activate it
 
-Windows:
+--> Activate it
 
-bash
-Copy code
-venv\Scripts\activate
+  Windows:
+  
+     venv\Scripts\activate
 
- Install dependencies
+--> Install dependencies
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the script
+       pip install -r requirements.txt
 
-bash
-Copy code
-python Day1_basics.py
-Project Note
+--> Run the script
+
+        python Day1.py
+
+--
+
+## Project Note
 This repo is part of the Python Mastery series — Day 1 focuses on setup, syntax, and running basic scripts.
 
-yaml
-Copy code
 
----
-
-### ✅ Step 2: Commit & push it
+ ✅ Step 2: Commit & push it
 Run these in PowerShell (inside your project folder):
 
 ```bash
